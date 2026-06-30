@@ -1,16 +1,38 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=800&color=FF2D9F&center=false&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=LAYSAE+OS+v2.6+%E2%80%94+initializing...;%3E+all+systems+nominal.;%3E+emergence+detected." />
 
-<!--
-**laysae/laysae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<pre>
+███████████████████████████████████████████████████
+LAYSAE OS v2.6                      STATUS : ONLINE
+───────────────────────────────────────────────────
+> whoami
+  current  :  student @ École 42
+  previous :  MSc cognitive sciences · IDMC Nancy
+  interned :  robotics · ISIR / Sorbonne
+  target   :  PhD · emergent systems · embodied cognition
+  mode     :  [ deep dive : ON ]
+───────────────────────────────────────────────────
+> current_focus
+  · developmental robotics
+  · systems programming  ( C / C++ )
+  · emergence & embodied cognition
+───────────────────────────────────────────────────
+> tech_stack
+  C  ·  C++  ·  Python  ·  ROS  ·  Linux  ·  Git
+───────────────────────────────────────────────────
+$ observe(system)
+  → emergence detected
+███████████████████████████████████████████████████
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/C-FF2D9F?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-C77DFF?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FF2D9F?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-C77DFF?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FF2D9F?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-C77DFF?style=for-the-badge&logo=git&logoColor=white" />
+</p>
