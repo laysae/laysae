@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="220" valign="top">
-<img src="src/mumuration.gif" width="220" />
+<img src="imgs/murmuration.gif" width="220" />
 </td>
 <td valign="top">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=800&color=FF2D9F&center=false&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=LAYSAE+OS+v2.6+%E2%80%94+initializing...;%3E+all+systems+nominal.;%3E+emergence+detected." />
