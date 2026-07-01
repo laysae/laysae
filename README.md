@@ -3,7 +3,7 @@
 </p>
 
 <br>
-
+<div align="center">
 <table>
 <tr>
 <td width="220" valign="top">
@@ -36,6 +36,7 @@ $ observe(system)
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
