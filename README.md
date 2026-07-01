@@ -22,19 +22,16 @@
   mode      : [ deep dive : ON ]
 
 ──────────────────────────────────────────────────────────────
-
 > current_focus
   · developmental robotics
   · systems programming (C / C++)
   · emergence & embodied cognition
 
 ──────────────────────────────────────────────────────────────
-
 > tech_stack
   C · C++ · Python · ROS · Linux · Git
 
 ──────────────────────────────────────────────────────────────
-
 > observe(system)
   learning...
   adapting...
