@@ -11,13 +11,13 @@
 </td>
 <td valign="top">
 <pre>
-███████████████████████████████████████████████████████████
-LAYSAE OS v2.6                              STATUS : ONLINE
+┌─────────────────────────────────────────────────────────┐
+LAYSAE OS v2.6                             STATUS : ONLINE
 ───────────────────────────────────────────────────────────
 > whoami
   current  :  student @ École 42
-  previous :  MSc cognitive sciences · IDMC Nancy
-  interned :  robotics · ISIR / Sorbonne
+  previous :  MSc cognitive sciences 
+  interned :  robotics · ISIR
   target   :  PhD · emergent systems · embodied cognition
   mode     :  [ deep dive : ON ]
 ───────────────────────────────────────────────────────────
@@ -29,9 +29,11 @@ LAYSAE OS v2.6                              STATUS : ONLINE
 > tech_stack
   C  ·  C++  ·  Python  ·  ROS  ·  Linux  ·  Git
 ───────────────────────────────────────────────────────────
-$ observe(system)
-  → emergence detected
-███████████████████████████████████████████████████████████
+> observe(system)
+  learning...
+  adapting...
+  emergence detected.
+└──────────────────────────────────────────────────────────┘
 </pre>
 </td>
 </tr>
